@@ -1,0 +1,139 @@
+*{
+    padding:0px;
+    margin:5px 0px;
+    
+    }
+    body{
+        height:3500px;
+        width: 1000;
+        background-color:burlywood ;
+    }
+    header{
+        background-color:  rgb(87, 80, 81);
+         height: 250px;
+        width:1300px;
+    }
+    .nav{
+        padding:3px;
+        margin-left:200px;
+    }
+    .nav-item{
+         margin:0px 10px 0px 20px;
+        }
+    
+    .img1{
+        border-radius: 50%;
+    }
+    .img2{
+        height:350px;
+       width:1150px;    
+    }
+    a:hover{
+        color:white;
+        background-color:#e7e0e0;
+        border-radius: 10%;
+        cursor: pointer;
+    }
+    a:link{
+        color:white;
+    }
+    a:active{
+        color:pink;
+    }
+    
+    
+    .txt{
+        position:relative;
+        bottom:140px;
+        text-align: center;
+        color:white;
+    }
+    #home{
+        margin-top: 30px;
+    
+    }
+    .h2{
+       font-size: 50px;
+       text-align: center;
+       margin-top: 50px;
+    }
+    #contact-container{
+        display:inline-flex;
+    
+    }
+    .wrapper{
+        margin: 0px;
+    
+        list-style: none;
+    }
+    .deals-list{
+        list-style: none; 
+    }
+    .deals-list{
+        list-style: none; 
+    }
+    .about-text{
+        width:400px;   
+        list-style: none; 
+        border-right: 1px solid green;
+        height: 610px;
+        
+    }
+    article{
+      width:1100px;
+    }
+    
+    
+    form{
+        width:400px;
+        padding: 0px 0px;
+        
+    
+    }
+    #contact{
+        display:inline-flex;
+        width:auto;
+    }
+    #footer{
+        display: inline-flex;
+        background-color: black;
+        height: auto;
+        width:auto;
+        color:white;
+        background-size: cover;
+    }
+    .footer{
+        display:inline-flex;
+        background-color: black;
+        height: 250px;
+        width:1300px;
+        color:white;
+        background-size: cover;
+       
+    }
+    .connect{
+        width:250px;
+    }
+    .unorder{
+        list-style: none;
+        display: inline-block;
+    
+    }
+    .info-list{
+        list-style: none;
+    }
+    .location{
+        display:inline-block;
+    }
+    .hour{
+        list-style: none;
+        
+    }
+    .register{
+        text-align: center;
+        background-color: white;
+        height:auto;
+        width:600px;
+        margin-left: 400px;
+        
+    }
